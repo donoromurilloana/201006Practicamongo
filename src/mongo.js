@@ -1,0 +1,1 @@
+db.col1.insertOne({"nombre": "Juan"})
